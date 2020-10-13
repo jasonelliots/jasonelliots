@@ -3,6 +3,6 @@ Hi, my name is Jason. I'm a Full Stack Software Engineer interested in building 
 • Javascript  • React      • Redux 
 • Node.JS     • Express    • SQLiteStudio
 • Jest        • Cypress    • HTML/CSS
-• Python      • OOP        • Data Structures
+• Python      • OOP        • Data Structures •
 
 Find me on the web: 
