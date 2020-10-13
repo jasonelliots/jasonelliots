@@ -1,3 +1,3 @@
-Full Stack Software Engineer with a passion for aesthetics, self inquiry, scifi, and bananagrams. Interested in building tools that empower the individual.
+Full Stack Software Engineer interested in building tools that empower the individual. Passionate about aesthetics, self inquiry, scifi, and bananagrams. 
 
 Find me on the web: 
