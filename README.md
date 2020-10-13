@@ -1,5 +1,3 @@
-Hi, my name is Jason. I'm a Full Stack Software Engineer interested in building tools that empower the individual. 
-
-Proficient with React, Redux, Node.js, Express, HTML, CSS, Javscript, and Python. Passionate about aesthetics, self inquiry, scifi, bitcoin, and bananagrams.
+Hi, my name is Jason. I'm a Full Stack Software Engineer interested in building tools that empower the individual, with a passion for aesthetics, self inquiry, scifi, and bananagrams.
 
 Find me on the web: 
