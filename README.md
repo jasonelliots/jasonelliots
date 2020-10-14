@@ -9,5 +9,5 @@ Skills:
 Find me on the web: 
 * [Portfolio](https://portfolio-xi-seven.vercel.app/)
 * [Twitter](https://twitter.com/jasoneschwa)
-* [Linkedin] (https://www.linkedin.com/in/jason-elliot-schwartz/)
+* [Linkedin](https://www.linkedin.com/in/jason-elliot-schwartz/)
 
