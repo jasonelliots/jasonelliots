@@ -9,7 +9,7 @@ Hi, my name is Jason. I'm a Full Stack Software Engineer interested in building 
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />:
+<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /> :
 
 
     
