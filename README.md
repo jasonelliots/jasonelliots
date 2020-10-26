@@ -1,4 +1,4 @@
-Hi, my name is Jason. I'm a Full Stack Software Engineer interested in building tools that empower the individual 👊🏼 I'm passionate about self inquiry, scifi, and bananagrams. 
+Hi, my name is Jason. I'm a Full Stack Software Engineer interested in building tools that empower the individual 👊🏼 I'm passionate about self inquiry, scifi, bitcoin, and bananagrams. 
 
 
 :<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
