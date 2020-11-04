@@ -16,6 +16,7 @@ Hi, my name is Jason. I'm a Full Stack Software Engineer interested in building 
 
 Find me on the web: 
 
+* [Portfolio](https://jason-schwartz.vercel.app/)
 * [Twitter](https://twitter.com/jasoneschwa)
 * [Linkedin](https://www.linkedin.com/in/jason-elliot-schwartz/)
 
